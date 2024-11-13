@@ -82,7 +82,7 @@ h2{
     transition: 0.25s;
     transform: rotateY(0deg);
     backface-visibility: hidden;
-    opacity: 0.85;
+    /*opacity: 0.85; deixar transparente as cartas*/
 }
 
 .item.viraCarta{
